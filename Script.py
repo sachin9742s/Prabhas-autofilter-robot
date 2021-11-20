@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """</b>𝐘𝐨..𝐘𝐨.. {} 🙋, I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter Bot In Your Group ..
+    START_TXT = """<b>𝐘𝐨..𝐘𝐨.. {} 🙋, I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter Bot In Your Group ..
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓
 
