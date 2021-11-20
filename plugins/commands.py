@@ -43,7 +43,7 @@ async def start(client, message):
             InlineKeyboardButton('ʀᴇϙᴜᴇsᴛ', url='https://t.me/TAMILROCKERS_REQUEST')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='credits')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
