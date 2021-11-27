@@ -1,11 +1,11 @@
 class script(object):
-    START_TXT = """<b>𝐘𝐨..𝐘𝐨.. {} 🙋, I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter Bot In Your Group ..
+    START_TXT = """<b> {} 🙋, I'm Powerful ᴘʀᴀʙʜᴀꜱ ᴀᴜᴛᴏꜰɪᴛᴇʀ ʀᴏʙᴏᴛ You Can Use Me As A Auto-filter Bot In Your Group ..
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...🤓
 
 ⚠️More Help Check Help Button Below</b>
 
-©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href="https://t.me/Robert_Pattinson119"> 🅁🄾🄱🄴🅁🅃 </a> """
+©️MᴀɪɴᴛᴀɪɴᴇD Bʏ <a href="https://t.me/sachin_official_admin"> Ⓢⓐⓒⓗⓘⓝ Ⓢ </a> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
@@ -13,9 +13,9 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
 ╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/medias_search_robot"> Bʀᴏᴄᴋ Lᴇsɴᴀʀ ⚡️ </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎ - <a href="https://t.me/Robert_Pattinson119"> Rᴏʙᴇʀᴛ ☮ Pᴀᴛᴛɪɴsᴏɴ </a>
-║┣⪼ 𝑮𝒓𝒐𝒖𝒑 - <a href="https://t.me/TAMILROCKERS_REQUEST"> Click here </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Prabhas_autofilterBOT"> ᴘʀᴀʙʜᴀꜱ ᴀᴜᴛᴏꜰᴛʟɪᴛᴇʀ ʀᴏʙᴏᴛ </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎ - <a href="https://t.me/sachin_official_admin"> ꜱᴀᴄʜɪɴ ꜱ </a>
+║┣⪼ 𝑮𝒓𝒐𝒖𝒑 - <a href="https://t.me/RockyRequest"> Click here </a>
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -24,10 +24,10 @@ Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provid
 ║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎 𝓷𝓸𝓽 𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- 𝗗𝗲𝘃 ⚡ - <a href="https://t.me/Robert_Pattinson119"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
+- 𝗗𝗲𝘃 ⚡ - <a href="https://t.me/sachin_official_admin"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
 
 𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/Robert_Pattinson119"> ⚡...⚡ </a>"""
+<a href="https://t.me/sachin_official_admin"> ⚡...⚡ </a>"""
     FUN_TXT ="""<b>FUN MODULE</b> 
     
 <b>🎲 NOTHING MUCH JUST SOME FUN THINGS</b>
@@ -60,7 +60,7 @@ t𝗋𝗒 𝗍𝗁𝗂𝗌 𝖮𝗎𝗍:
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https//t.me/EvaMariaBot)</code>
+<code>[Button Text](buttonurl:https//t.me/Prabhas_autofilterBOT)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -114,12 +114,12 @@ This module only works for my admins
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
     FILTER_TXT = """𝐒𝐄𝐋𝐄𝐂𝐓 𝐀 𝐅𝐈𝐋𝐓𝐄𝐑 𝐓𝐘𝐏𝐄 𝐁𝐄𝐋𝐎𝐖
-⍟ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 @Robert_Pattinson119"""
+⍟ 𝐌𝐚𝐝𝐞 𝐰𝐢𝐭𝐡 @sachin_official_admin"""
     STATUS_TXT = """✪ 𝑻𝒐𝒕𝒂𝒍 𝒇𝒊𝒍𝒆𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑼𝒔𝒆𝒓𝒔: <code>{}</code>
 ✪ 𝑻𝒐𝒕𝒂𝒍 𝑪𝒉𝒂𝒕𝒔: <code>{}</code>
-✪ 𝑼𝒔𝒆𝒅 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{}</code> 𝙼𝚒𝙱
-✪ 𝑭𝒓𝒆𝒆 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{}</code> 𝙼𝚒𝙱"""
+✪ 𝑼𝒔𝒆𝒅 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{}</code> 𝙼𝙱
+✪ 𝑭𝒓𝒆𝒆 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{}</code> 𝙼𝙱"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
