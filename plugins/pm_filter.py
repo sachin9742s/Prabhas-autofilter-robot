@@ -415,8 +415,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ', url='http://t.me/dqautofl_bot?startgroup=true')
             ],[
+            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 1', url='https://t.me/KicchaRequest'),
+            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 2', url='https://t.me/RockyRequest')
+            ],[
             InlineKeyboardButton('sᴇᴀʀᴄʜ', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url='https://t.me/EDIT_REPO')
             ],[
             InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about')
@@ -429,6 +431,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "help":
         buttons = [[
+            InlineKeyboardButton('🗣️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 1', url='https://t.me/KicchaRequest'),
+            InlineKeyboardButton('🗣️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 2', url='https://t.me/RockyRequest')
+            ],[
             InlineKeyboardButton('ғɪʟᴛᴇʀ', callback_data='filter'),
             InlineKeyboardButton('ɪᴍᴅʙ', callback_data='imbd'),
             InlineKeyboardButton('ғᴜɴ', callback_data='fun',)
@@ -449,8 +454,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons= [[
-            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/annaben_updates'),
-            InlineKeyboardButton('sᴏᴜʀᴄᴇ', callback_data='source')
+            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇs', url='https://t.me/KR_ROCKERS_DVD_WEB_OTT_MOVIES'),
+            InlineKeyboardButton('ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ', url='https://t.me/KicchaRequest')
             ],[
             InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('ᴄʟᴏsᴇ', callback_data='close_data')
